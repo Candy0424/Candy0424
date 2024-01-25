@@ -37,6 +37,14 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
+<p align="center">
+Messenger, SNS ✉
+
+<p align="center">
+<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/messenger-00B2FF?style=flat&logo=messenger&logoColor=white"/><img src="https://img.shields.io/badge/line-00C300?style=flat&logo=line&logoColor=white"/><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/facebook-0866FF?style=flat&logo=facebook&logoColor=white"/>
 
   </p>
 
@@ -52,3 +60,8 @@
     
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Candy0424\&show_icons=true\&theme=radical)
+
+
+
+
+
