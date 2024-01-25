@@ -9,3 +9,6 @@
 
 ## 노력만이 살길
 >계속 성장해서 바뀔거야 처음이랑은 다른 모습이 되어있을거야
+
+# 지금 상태 매우 낮다. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Candy0424\&show_icons=true\&theme=radical)
