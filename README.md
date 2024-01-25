@@ -2,66 +2,10 @@
 
 # Candy Shop
 
-> 🍭ONLY Candy🍭
+> 🍭사탕만 파는곳🍭
+## 내가 쓰는 작업공간
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-    </a>
-    <br />
-    <br />
-    <p align="center">
-🛠 Tools 🛠
+> 할 일 생기면 쓰는곳...
 
-<p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-
-<p align="center">
-Messenger, SNS ✉
-
-<p align="center">
-<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/messenger-00B2FF?style=flat&logo=messenger&logoColor=white"/><img src="https://img.shields.io/badge/line-00C300?style=flat&logo=line&logoColor=white"/><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white"/>
-<p align="center">
-<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/facebook-0866FF?style=flat&logo=facebook&logoColor=white"/>
-
-  </p>
-
-<p align="center">
-    </a>
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_it.md">english</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-  </p>
-</p>
-    
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Candy0424\&show_icons=true\&theme=radical)
-
-
-
-
-
+## 노력만이 살길
+>계속 성장해서 바뀔거야 처음이랑은 다른 모습이 되어있을거야
